@@ -1,0 +1,4 @@
+"""Suíte de testes do núcleo operacional do Runtime (Sprint R1). Valida apenas
+instanciação, registro e o fluxo do Orchestrator — sem cenários complexos, sem
+Provider concreto (SH-DOC-00002 §13, nível "Runtime").
+"""
