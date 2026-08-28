@@ -1,0 +1,281 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ 10 0 R ]
+>>
+endobj
+4 0 obj
+[ 11 0 R 12 0 R ]
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F1-0 9 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260826163446\05503\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260826163446\05503\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\050anonymous\051)
+/Trapped /False
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056instagram\056com\057skillhub\056tec)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 209.0373 26.34646 386.2383 38.34646 ]
+/Subtype /Link
+/Type /Annot
+/P 3 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 3091
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 735.1969 cm
+q
+.121569 .305882 .290196 rg
+BT 1 0 0 1 0 26 Tm /F2 18 Tf 22 TL 7.093795 0 Td (Guia de Uso \227 Template Notion de Produtividade) Tj T* 98.514 0 Td (\(Tarefas, Projetos e Notas\)) Tj T* -105.6078 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 715.0236 cm
+Q
+q
+1 0 0 1 78 697.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Obrigado pela compra! Este guia explica como duplicar e comecar a usar seu template.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 685.685 cm
+Q
+q
+1 0 0 1 78 655.685 cm
+q
+.121569 .305882 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (1. Como duplicar o template) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 601.685 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (Abra o link de duplicacao recebido no chat do Mercado Livre. Na pagina que abrir, clique no botao) Tj T* -0.108031 Tw ('Duplicate' \(geralmente no canto superior direito\). Escolha o workspace do Notion para onde deseja) Tj T* 0 Tw (copiar o template \227 pode ser um workspace pessoal ja existente ou um novo. O template) Tj T* (completo \(databases e paginas\) sera copiado para o seu workspace, pronto para editar.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 593.1811 cm
+Q
+q
+1 0 0 1 78 563.1811 cm
+q
+.121569 .305882 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (2. Database de Tarefas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 521.1811 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Cada tarefa tem Status \(A Fazer / Em Andamento / Concluido\), Prioridade \(Baixa / Media / Alta\),) Tj T* (Prazo e um vinculo opcional com um Projeto. Use a visualizacao Kanban para arrastar tarefas) Tj T* (entre status, ou a visualizacao de Calendario para ver prazos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 512.6772 cm
+Q
+q
+1 0 0 1 78 482.6772 cm
+q
+.121569 .305882 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (3. Database de Projetos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 452.6772 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Cada projeto agrupa suas tarefas vinculadas e mostra o progresso \(% de tarefas concluidas\)) Tj T* (automaticamente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 444.1732 cm
+Q
+q
+1 0 0 1 78 414.1732 cm
+q
+.121569 .305882 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (4. Pagina de Notas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 396.1732 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Espaco livre para anotacoes rapidas, com sub-paginas conforme sua necessidade.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 387.6693 cm
+Q
+q
+1 0 0 1 78 357.6693 cm
+q
+.121569 .305882 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Importante) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 315.6693 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Este template funciona no plano gratuito do Notion \(nao requer plano pago\). E um workspace de) Tj T* (organizacao pessoal/pequeno time \227 nao substitui uma ferramenta de gestao de projetos) Tj T* (completa para equipes grandes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 307.1654 cm
+Q
+q
+1 0 0 1 78 277.1654 cm
+q
+.121569 .305882 .290196 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Suporte) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 259.1654 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Duvidas sobre o material? Responda a mensagem de entrega recebida no chat do Mercado Livre.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+endstream
+endobj
+12 0 obj
+<<
+/Length 230
+>>
+stream
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+0.121569 0.305882 0.290196 rg
+BT
+1 0 0 1 209.0373 28.34646 Tm
+(Siga a Skill Hub no Instagram\072 \100skillhub\056tec) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000360 00000 n 
+0000000393 00000 n 
+0000000446 00000 n 
+0000000553 00000 n 
+0000000665 00000 n 
+0000000989 00000 n 
+0000001096 00000 n 
+0000001317 00000 n 
+0000004461 00000 n 
+trailer
+<<
+/Size 13
+/Root 1 0 R
+/Info 8 0 R
+/ID [ <4c2df3643851a7614d645357a66d364d> <4c2df3643851a7614d645357a66d364d> ]
+>>
+startxref
+4743
+%%EOF
